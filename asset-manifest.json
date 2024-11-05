@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Navyashreeamam/Tic-Tac-Toe.git/static/css/main.1c0620bc.chunk.css",
-    "main.js": "/Navyashreeamam/Tic-Tac-Toe.git/static/js/main.0dee9a5d.chunk.js",
-    "main.js.map": "/Navyashreeamam/Tic-Tac-Toe.git/static/js/main.0dee9a5d.chunk.js.map",
-    "runtime~main.js": "/Navyashreeamam/Tic-Tac-Toe.git/static/js/runtime~main.5bd59bcc.js",
-    "runtime~main.js.map": "/Navyashreeamam/Tic-Tac-Toe.git/static/js/runtime~main.5bd59bcc.js.map",
-    "static/js/2.77acc0fb.chunk.js": "/Navyashreeamam/Tic-Tac-Toe.git/static/js/2.77acc0fb.chunk.js",
-    "static/js/2.77acc0fb.chunk.js.map": "/Navyashreeamam/Tic-Tac-Toe.git/static/js/2.77acc0fb.chunk.js.map",
-    "static/js/3.68d536b4.chunk.js": "/Navyashreeamam/Tic-Tac-Toe.git/static/js/3.68d536b4.chunk.js",
-    "static/js/3.68d536b4.chunk.js.map": "/Navyashreeamam/Tic-Tac-Toe.git/static/js/3.68d536b4.chunk.js.map",
-    "index.html": "/Navyashreeamam/Tic-Tac-Toe.git/index.html",
-    "precache-manifest.78eff77c5130e3c29608261d23b63fb4.js": "/Navyashreeamam/Tic-Tac-Toe.git/precache-manifest.78eff77c5130e3c29608261d23b63fb4.js",
-    "service-worker.js": "/Navyashreeamam/Tic-Tac-Toe.git/service-worker.js",
-    "static/css/main.1c0620bc.chunk.css.map": "/Navyashreeamam/Tic-Tac-Toe.git/static/css/main.1c0620bc.chunk.css.map"
+    "main.css": "/Tic-Tac-Toe/static/css/main.1c0620bc.chunk.css",
+    "main.js": "/Tic-Tac-Toe/static/js/main.95244dfb.chunk.js",
+    "main.js.map": "/Tic-Tac-Toe/static/js/main.95244dfb.chunk.js.map",
+    "runtime~main.js": "/Tic-Tac-Toe/static/js/runtime~main.c17de4d6.js",
+    "runtime~main.js.map": "/Tic-Tac-Toe/static/js/runtime~main.c17de4d6.js.map",
+    "static/js/2.77acc0fb.chunk.js": "/Tic-Tac-Toe/static/js/2.77acc0fb.chunk.js",
+    "static/js/2.77acc0fb.chunk.js.map": "/Tic-Tac-Toe/static/js/2.77acc0fb.chunk.js.map",
+    "static/js/3.68d536b4.chunk.js": "/Tic-Tac-Toe/static/js/3.68d536b4.chunk.js",
+    "static/js/3.68d536b4.chunk.js.map": "/Tic-Tac-Toe/static/js/3.68d536b4.chunk.js.map",
+    "index.html": "/Tic-Tac-Toe/index.html",
+    "precache-manifest.9eeb3b40f0b3fbb844d2a2501020e56a.js": "/Tic-Tac-Toe/precache-manifest.9eeb3b40f0b3fbb844d2a2501020e56a.js",
+    "service-worker.js": "/Tic-Tac-Toe/service-worker.js",
+    "static/css/main.1c0620bc.chunk.css.map": "/Tic-Tac-Toe/static/css/main.1c0620bc.chunk.css.map"
   }
 }
