@@ -1,8 +1,8 @@
-.container{
+.container {
     text-align: center;
 }
 
-.title{
+.title {
     margin-top: 50px;
     color: white;
     font-size: 60px;
@@ -11,12 +11,12 @@
     align-items: center;
 }
 
-.title span{
+.title span {
     color: #26ffcb;
     padding-left: 15px;
 }
 
-.reset{
+.reset {
     width: 250px;
     height: 100px;
     border: none;
@@ -30,8 +30,10 @@
     margin-bottom: 50px;
 }
 
-.boxes{
+.boxes {
     display: flex;
+    justify-content: center; /* Center content inside each box */
+    align-items: center; /* Center content vertically */
     height: 180px;
     width: 180px;
     background: #1f3540;
@@ -40,18 +42,38 @@
     cursor: pointer;
 }
 
-.board{
-    height: 600px;
-    width: 564px;
+.board {
+    height: 600px; /* Adjust as necessary */
+    width: 564px; /* Adjust as necessary */
     display: flex;
     margin: auto;
+    flex-wrap: wrap; /* Allows for wrapping of boxes */
 }
 
-.boxes img{
-    margin: 50px 50px;
+.boxes img {
+    max-width: 100%; /* Ensures images scale within the box */
+    max-height: 100%; /* Ensures images fit within box dimensions */
 }
 
-.title img{
+.title img {
     padding: 20px;
     height: 50px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .boxes {
+        height: 120px; /* Adjust size for smaller screens */
+        width: 120px;
+    }
+
+    .reset {
+        width: 200px; /* Adjust size for smaller screens */
+        height: 80px;
+        font-size: 20px;
+    }
+
+    .title {
+        font-size: 40px; /* Smaller font size for smaller screens */
+    }
 }
